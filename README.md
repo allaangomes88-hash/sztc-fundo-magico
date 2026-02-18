@@ -1,5 +1,4 @@
-Desenvolvido no n8n para automação e personalização visual.
-Demo disponível por tempo limitado (15 dias).
+Desenvolvido no n8n na versão free para automação e personalização visual.
 
 #Demonstração
 
