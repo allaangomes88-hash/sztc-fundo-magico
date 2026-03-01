@@ -1,6 +1,8 @@
  <h1 align=center>Fundo mágico</h1>
  
-![Badge Projeto Concluído](https://img.shields.io/badge/Status-Projeto%20Conclu%C3%ADdo-25C2A0)
+<p align="center">
+  <img src="https://img.shields.io/badge/Projeto-Conclu%C3%ADdo-25C2A0" alt="Projeto Concluído">
+</p>
 
 Desenvolvido no n8n na versão free para automação e personalização visual.
 
