@@ -1,8 +1,7 @@
  <h1 align=center>Fundo mágico</h1>
  
 <p align="center">
-  <img 
-    src="https://img.shields.io/badge/Projeto%20Conclu%C3%ADdo-25C2A0?style=for-the-badge&logo=github">
+  <img src="https://img.shields.io/badge/Projeto%20Conclu%C3%ADdo-25C2A0?style=for-the-badge&logo=github">
 </p>
 
 <p align="center">Desenvolvido no n8n na versão free para automação e personalização visual.</p>
